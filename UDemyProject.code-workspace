@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": "..\\..\\..\\JScript"
+	}
+],
+  "settings": {
+    "[html]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.defaultFormatter": "null",
+    "[css]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+  }
+}
